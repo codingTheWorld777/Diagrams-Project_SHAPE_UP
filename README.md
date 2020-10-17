@@ -1,4 +1,4 @@
-# Projet_Shape_up_Diagrams
+# Project_Shape_up_Diagrams
 PROJECT SHAPE UP !
 
 We divide our project SHAPE UP into three main phases :

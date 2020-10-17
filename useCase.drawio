@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-17T17:08:17.057Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="hC_3bTN1UHkLKe9pDFx7" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-17T17:47:14.018Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="cfAuGaEZo_hAvX1WB2Pi" version="13.8.0" type="github">
   <diagram id="Aal5Y67CQLRODoDGmTe_" name="Page-1">
     <mxGraphModel dx="782" dy="1537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,16 +13,16 @@
         <mxCell id="7_2PxLmDTk1nebNTgZE4-92" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.017;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7_2PxLmDTk1nebNTgZE4-56" target="7_2PxLmDTk1nebNTgZE4-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7_2PxLmDTk1nebNTgZE4-93" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.006;entryY=0.608;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="7_2PxLmDTk1nebNTgZE4-59">
+        <mxCell id="7_2PxLmDTk1nebNTgZE4-93" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.006;entryY=0.608;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7_2PxLmDTk1nebNTgZE4-56" target="7_2PxLmDTk1nebNTgZE4-59">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="470" as="sourcePoint" />
+            <mxPoint x="110" y="450" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7_2PxLmDTk1nebNTgZE4-94" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7_2PxLmDTk1nebNTgZE4-56" target="7_2PxLmDTk1nebNTgZE4-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7_2PxLmDTk1nebNTgZE4-56" value="Joueur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="430" width="30" height="60" as="geometry" />
+          <mxGeometry x="60" y="460" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7_2PxLmDTk1nebNTgZE4-57" value="Installer le jeu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="230" width="120" height="80" as="geometry" />

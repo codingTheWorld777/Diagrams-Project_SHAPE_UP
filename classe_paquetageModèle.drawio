@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T12:46:47.768Z" agent="5.0 (Windows)" etag="KyM_McGx8VpsZhYJ02Fx" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-30T12:56:30.127Z" agent="5.0 (Windows)" etag="px1MT4I6eLmZ3Un_M_vd" version="13.8.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -158,7 +158,7 @@
           <mxGeometry y="98" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AZChsYfxRMKOv2LDF5ls-50" value="JoueurPhy" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="180" y="366" width="160" height="90" as="geometry">
+          <mxGeometry x="180" y="366" width="160" height="84" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -204,7 +204,7 @@
         <mxCell id="FaVEyX-Qavl0ARQqvnFb-4" value="+placerCarte()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="igoX3mTZMC02YSDTXu9f-4">
           <mxGeometry y="80" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FaVEyX-Qavl0ARQqvnFb-5" value="+deplacerCarte()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="igoX3mTZMC02YSDTXu9f-4">
+        <mxCell id="FaVEyX-Qavl0ARQqvnFb-5" value="+déplacerCarte()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="igoX3mTZMC02YSDTXu9f-4">
           <mxGeometry y="106" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Cv7qwnOLkSdo4t0Jrulm-0" value="Visiteur" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">

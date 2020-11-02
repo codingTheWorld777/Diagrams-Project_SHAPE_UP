@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T10:05:52.534Z" agent="5.0 (Windows)" etag="NfFmrnkABXXI8g_Bzjt4" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-02T10:06:07.646Z" agent="5.0 (Windows)" etag="0OCr8o2XwwRVTHKy_GI4" version="13.8.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2500" dy="2067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -305,7 +305,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gqr33XGORAb8K-6qKqLH-24" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="gqr33XGORAb8K-6qKqLH-23" connectable="0" vertex="1">
-          <mxGeometry x="-1" relative="1" as="geometry" />
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint y="19" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="gqr33XGORAb8K-6qKqLH-33" value="(i) Stratégie" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="827" y="240" width="180" height="100" as="geometry" />

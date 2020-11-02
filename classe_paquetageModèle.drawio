@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T10:05:13.678Z" agent="5.0 (Windows)" etag="GmX6YJYsPSBd9sE8gnu5" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-02T10:05:52.534Z" agent="5.0 (Windows)" etag="NfFmrnkABXXI8g_Bzjt4" version="13.8.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2500" dy="2067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -293,9 +293,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqr33XGORAb8K-6qKqLH-23" value="choisir" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;strokeColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.42;exitY=1.081;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CgIlNexyzQEodWSmVS5y-6" target="AZChsYfxRMKOv2LDF5ls-72" edge="1">
+        <mxCell id="gqr33XGORAb8K-6qKqLH-23" value="choisir" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;strokeColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CgIlNexyzQEodWSmVS5y-3" target="AZChsYfxRMKOv2LDF5ls-72" edge="1">
           <mxGeometry x="-0.639" y="-10" relative="1" as="geometry">
-            <mxPoint x="700" y="620" as="sourcePoint" />
+            <mxPoint x="711" y="480" as="sourcePoint" />
             <mxPoint x="420" y="630" as="targetPoint" />
             <Array as="points">
               <mxPoint x="711" y="620" />

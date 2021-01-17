@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-17T10:42:04.253Z" agent="5.0 (Windows)" etag="TkuYjUY49isE1yH12Tdp" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-17T11:08:00.246Z" agent="5.0 (Windows)" etag="74aMRrnhC327j7919eSE" version="14.2.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1254" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,24 +82,36 @@
           <mxGeometry y="174" width="240" height="66" as="geometry" />
         </mxCell>
         <mxCell id="CgIlNexyzQEodWSmVS5y-3" value="JoueurVir" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="860" y="620" width="170" height="120" as="geometry" />
+          <mxGeometry x="870" y="620" width="220" height="160" as="geometry" />
         </mxCell>
         <mxCell id="CgIlNexyzQEodWSmVS5y-4" value="- niveau; Niveau&#xa;- stratégie: Stratégie " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CgIlNexyzQEodWSmVS5y-3" vertex="1">
-          <mxGeometry y="26" width="170" height="44" as="geometry" />
+          <mxGeometry y="26" width="220" height="44" as="geometry" />
         </mxCell>
         <mxCell id="CgIlNexyzQEodWSmVS5y-5" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="CgIlNexyzQEodWSmVS5y-3" vertex="1">
-          <mxGeometry y="70" width="170" height="8" as="geometry" />
+          <mxGeometry y="70" width="220" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="3T4ve6-s2PS5q8-MBMN1-2" value="&lt;div align=&quot;left&quot;&gt;+deplacerCarte(x: in, y: int, X: int, Y: int)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CgIlNexyzQEodWSmVS5y-3">
+          <mxGeometry y="78" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CgIlNexyzQEodWSmVS5y-6" value="+ getNineau(): String&#xa;+ setStrategie(String niveau)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CgIlNexyzQEodWSmVS5y-3" vertex="1">
-          <mxGeometry y="78" width="170" height="42" as="geometry" />
+          <mxGeometry y="98" width="220" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="3T4ve6-s2PS5q8-MBMN1-3" value="&lt;div align=&quot;left&quot;&gt;+piocherCarte(x: int, y: int)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="CgIlNexyzQEodWSmVS5y-3">
+          <mxGeometry y="140" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AZChsYfxRMKOv2LDF5ls-50" value="JoueurPhy" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="430" y="616" width="160" height="44" as="geometry">
+          <mxGeometry x="430" y="616" width="220" height="84" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AZChsYfxRMKOv2LDF5ls-51" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="AZChsYfxRMKOv2LDF5ls-50" vertex="1">
-          <mxGeometry y="26" width="160" height="8" as="geometry" />
+        <mxCell id="AZChsYfxRMKOv2LDF5ls-51" value="+" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="AZChsYfxRMKOv2LDF5ls-50" vertex="1">
+          <mxGeometry y="26" width="220" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="3T4ve6-s2PS5q8-MBMN1-0" value="&lt;div align=&quot;left&quot;&gt;+piocherCarte(x: int, y: int)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="AZChsYfxRMKOv2LDF5ls-50">
+          <mxGeometry y="34" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3T4ve6-s2PS5q8-MBMN1-1" value="&lt;div align=&quot;left&quot;&gt;+deplacerCarte(x: in, y: int, X: int, Y: int)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AZChsYfxRMKOv2LDF5ls-50">
+          <mxGeometry y="54" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CgIlNexyzQEodWSmVS5y-8" value="PiocheCarte" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1684" y="1010" width="220" height="106" as="geometry" />
